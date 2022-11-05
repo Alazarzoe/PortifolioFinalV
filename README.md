@@ -1,16 +1,17 @@
-# portifolio
+# This app is portifolio/resume app
 
-A new Flutter project.
+The app have simple and interactive UI for the user and it shows detail info of the person and the socia media link redirected to the specified url.
 
-## Getting Started
+I have used OOP concept to make the app simple and maintainable for future use.
 
-This project is a starting point for a Flutter application.
+I have created my own UI and I build that.
 
-A few resources to get you started if this is your first Flutter project:
+I have used 'url_launcher' package to implement the social media links.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+If I had more time, I have some feature in my mind like adding sign up feature,adding into DB feature for many users,{add,filter and remove,update resume features}, changing language for different languages, 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Links for APK: https://appetize.io/app/zsd5it5za3jgvfugpwrw5o32fy
+I haven't face a challenge for now or for this project
+
+
+
