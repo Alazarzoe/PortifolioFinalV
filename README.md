@@ -13,6 +13,8 @@ I have used 'url_launcher' package to implement the social media links.
 If I had more time, I have some feature in my mind like adding sign up feature,adding into DB feature for many users,{add,filter and remove,update resume features}, changing language for different languages, 
 
 Links to Appetize: https://appetize.io/app/zsd5it5za3jgvfugpwrw5o32fy
+
+
 I haven't face a challenge for now or for this project
 
 
